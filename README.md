@@ -40,7 +40,7 @@ _(Chennai)_
 - Reduced outlier impact by 30% through **data preprocessing** and handling data skewness.  
 - **R² Score:** 0.91 (pricing prediction) | **Precision:** 0.98 (lead classification).  
 - Built an interactive **Streamlit app** for real-time predictions.  
-[📂 View Repository](https://github.com/tkraghul/Industrial-Copper-Modelling)  
+[📂 View Repository](https://github.com/tkraghul/Industrial-Copper-Modelling-)  
 
 ---
 
@@ -59,7 +59,7 @@ _(Chennai)_
 - Leveraged **Plotly** for advanced visualizations and **MySQL** for data querying.  
 - Cloned PhonePe’s GitHub repository to analyze transaction patterns.  
 - Users can explore metrics such as payment volume and state-wise trends.  
-[📂 View Repository](https://github.com/tkraghul/PhonePe-Pulse-Dashboard)
+[📂 View Repository](https://github.com/tkraghul/PhonePe-Pulse-Interactive-Data-Insights-and-Visualization)
 
 ---
 
@@ -69,7 +69,7 @@ _(Chennai)_
 - Used **Random Forest Regressor**, achieving an **R² Score of 0.7347** and **RMSE of 24.71**.  
 - Implemented **PCA** to reduce dimensionality for model interpretability.  
 - Visualized **feature importance, outliers, and cumulative explained variance** using plots.  
-[📂 View Repository](https://github.com/tkraghul/HR-Absenteeism-Prediction)
+[📂 View Repository](https://github.com/tkraghul/HR_Absence_Forecast)
 
 ---
 
@@ -79,7 +79,7 @@ _(Chennai)_
 - Saved extracted data to an **SQLite database** with options to **view and delete** records.  
 - Implemented a **Streamlit app** for easy card uploading and text extraction.  
 - Extracted fields include **company name, holder’s name, mobile number, email, address, and website URL**.  
-[📂 View Repository](https://github.com/tkraghul/BizCardX-OCR)
+[📂 View Repository](https://github.com/tkraghul/BizCard-Application-Extract-Information-from-Image-to-Text)
 
 ---
 
@@ -89,7 +89,7 @@ _(Chennai)_
 - Collected data for up to **10 channels** and stored it in **MySQL/PostgreSQL**.  
 - Visualized data trends and provided **search functionality** for detailed channel insights.  
 - Example queries: **Most viewed videos, channels with most videos, and top-liked videos**.  
-[📂 View Repository](https://github.com/tkraghul/YouTube-Data-Explorer)
+[📂 View Repository](https://github.com/tkraghul/Youtube-Data-Harvesting)
 
 ---
 
@@ -99,7 +99,7 @@ _(Chennai)_
 - Built an **interactive dashboard** to visualize metrics such as **property distribution and pricing trends**.  
 - Loaded and cleaned Airbnb data from **JSON files** and structured it into **Pandas DataFrames** for analysis.  
 - Visualized insights using **Pydeck maps, bar charts, and histograms**.  
-[📂 View Repository](https://github.com/tkraghul/Airbnb-Analysis)
+[📂 View Repository](https://github.com/tkraghul/AirBnb_Analysis)
 
 ---
 
